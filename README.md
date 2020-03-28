@@ -1,7 +1,7 @@
 # Crud - CI by Ajax
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
-[![license][license-badge]][LICENSE] 
+![license][license-badge]][LICENSE] 
 
 ## Requisitos:
 
